@@ -23,7 +23,7 @@ Electronic health record data on 2,880,456 SARS-CoV-2-infected patients from 63 
 Patterns of changes in disease severity among patients were characterized during the 28-day period following a SARS-CoV-2 diagnosis.
 
 ## National COVID Cohort Collaborative (N3C)
-Base COVID-19 positive cohort called in this project involves shared logic used across all N3C project as described in the [N3C Cohort Paper](https://www.medrxiv.org/content/10.1101/2021.01.12.21249511v3.full-text). Additional coding was done primarily by 
+Base COVID-19 positive cohort called in this project involves shared logic used across all N3C project as described in the [N3C Cohort Paper](https://www.medrxiv.org/content/10.1101/2021.01.12.21249511v3.full-text). Additional coding was done by 
 [Maryam Khodaverdi](https://directory.hsc.wvu.edu/Profile/61365).
 
 [N3C GitHub page](https://github.com/National-COVID-Cohort-Collaborative/CS-Rural-Health/tree/main/ordinal-scale-EHR) contains codes developed in SQL/R with an Apache Spark backend for the project.
